@@ -10,9 +10,9 @@
 
   **How to use this Project**  
   * Download any IDE which support java.  
-  * create a new file same as class name and save with .java Extension  
-  * Clone or copy-paste the
-  * Run the NotpadTesting.java file  
+  * create a new file same as class name and save with .java Extension.  
+  * Clone or copy-paste the code.
+  * Run the NotpadTesting.java file.  
 
   *Note:*  **I have Made this project and readme.md only for my practice  
     but if you have any query related to project i am open for discussion**
