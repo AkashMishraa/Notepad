@@ -92,7 +92,7 @@ public class Notpad extends JFrame{
         file = new JFileChooser();
         Object obj = e.getSource();
         if(obj == fOpen){
-          file.showOpenDialog(tArea);
+          file.showOpenDialog(null);
         }
       }
     });
@@ -102,7 +102,7 @@ public class Notpad extends JFrame{
         file  = new JFileChooser();
         Object obj = e.getSource();
         if(obj == fSave){
-          file.showSaveDialog(tArea);
+          file.showSaveDialog(null);
         }
       }
     });
