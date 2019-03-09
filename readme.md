@@ -1,4 +1,4 @@
-# Notpad Using java.
+# Notepad Using java.
 
 **This is first version of Notpad**  
   This project is created using Swing and awt apis and still under construction.
